@@ -104,3 +104,4 @@ func main() {
 
 	fmt.Println("System information sent successfully!")
 }
+

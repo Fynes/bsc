@@ -1,2 +1,1 @@
-# bsc
-BNB-Chain Bugbounty POC
+# BNB-Chain Bugbounty POC
